@@ -2,7 +2,7 @@ package com.ramos;
 import java.util.Scanner;
 
 /**
- * @author Francis Enrico G. Ramos
+ * @author Francis Ramos
  */
 public class Main {
     public static String[] options = 
