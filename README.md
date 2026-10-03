@@ -315,9 +315,4 @@ Terminal support for ANSI escape sequences may vary depending on the operating s
 
 ## Author
 
-**Francis Enrico G. Ramos**
-
-## License
-
-This project does not currently specify a license.
-If you intend to make the project publicly available, consider adding an appropriate open-source license.
+**Francis Ramos**
